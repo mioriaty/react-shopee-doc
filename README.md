@@ -1,1 +1,1 @@
-# react-shopee-doc
+# react-shopee-docs
